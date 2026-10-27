@@ -1,0 +1,2 @@
+Txt file from vs code to git,
+For my first homework.
