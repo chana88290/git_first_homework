@@ -1,3 +1,4 @@
 This is my git_first_homework
 
-My first text
+My first text!!
+my second text!!
